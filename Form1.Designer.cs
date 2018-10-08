@@ -73,7 +73,7 @@
             // groupBox1
             // 
             this.groupBox1.Controls.Add(this.listBox1);
-            this.groupBox1.Location = new System.Drawing.Point(12, 64);
+            this.groupBox1.Location = new System.Drawing.Point(12, 12);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(220, 349);
             this.groupBox1.TabIndex = 2;
@@ -178,7 +178,7 @@
             // lstIpList
             // 
             this.lstIpList.FormattingEnabled = true;
-            this.lstIpList.Location = new System.Drawing.Point(238, 214);
+            this.lstIpList.Location = new System.Drawing.Point(282, 214);
             this.lstIpList.Name = "lstIpList";
             this.lstIpList.Size = new System.Drawing.Size(255, 199);
             this.lstIpList.TabIndex = 16;
