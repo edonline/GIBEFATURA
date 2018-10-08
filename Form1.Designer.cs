@@ -120,9 +120,9 @@
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(238, 92);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(112, 13);
+            this.label3.Size = new System.Drawing.Size(114, 13);
             this.label3.TabIndex = 7;
-            this.label3.Text = "POSKON Dosya Yolu:";
+            this.label3.Text = "POSKON Dosya YolU:";
             // 
             // label4
             // 
